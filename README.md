@@ -12,7 +12,7 @@
 [Practicum.yandex](https://github.com/alenatonn/Study_projects)
 
 ### 📁 My personal projects
-[Авторынок Казахстана]()
+[Car market of Kazakhstan]()
 
 ### 📜 Certifications
 - Yandex.Practicum - [Data Analyst](https://disk.yandex.ru/i/FN4m99QfJ9B-7g)
