@@ -1,4 +1,20 @@
-### Hi there 👋
+### 👋 Hi there! I'm Alena. 
+
+### ⚒️ Tech Stack
+- Python: NumPy, SymPy, SciPy, Pandas, Seaborn, Matplotlib
+- SQL
+- MS Excel
+- Google Sheets
+- Tableau (basic)
+- Jupyter Notebook
+
+### 📁 My study projects
+[Practicum.yandex](https://github.com/alenatonn/Study_projects)
+
+### 📁 My personal projects
+[Авторынок Казахстана]()
+
+
 
 <!--
 **alenatonn/alenatonn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
