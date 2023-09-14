@@ -14,6 +14,9 @@
 ### 📁 My personal projects
 [Авторынок Казахстана]()
 
+### 📜 Certifications
+Data Analyst - [Yandex.Practicum](https://disk.yandex.ru/i/FN4m99QfJ9B-7g)
+
 
 
 <!--
