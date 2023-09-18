@@ -1,7 +1,7 @@
 ### 👋 Hi there! I'm Alena. 
 
 ### ⚒️ Tech Stack
-- Python: NumPy, SymPy, SciPy, Pandas, Seaborn, Matplotlib
+- Python: NumPy, SciPy, Pandas, Seaborn, Matplotlib
 - SQL
 - MS Excel
 - Google Sheets
