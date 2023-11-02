@@ -3,9 +3,8 @@
 ### ⚒️ Tech Stack
 - Python: NumPy, SciPy, Pandas, Seaborn, Matplotlib
 - SQL
-- MS Excel
-- Google Sheets
-- Tableau (basic)
+- MS Excel/Google Sheets
+- Tableau/DataLens
 - Jupyter Notebook
 
 ### 📁 My personal projects
